@@ -5,6 +5,7 @@ on:
       - main
       - master
       - 'release/**'
+      - test-proto
   pull_request:
     branches:
       - main
